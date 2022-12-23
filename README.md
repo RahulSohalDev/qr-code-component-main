@@ -7,9 +7,11 @@
 Thanks for checking out this front-end coding challenge.
 
 ##Technologies I had Used
-HTML - For Markup
-CSS - For Styling Purpose
-Github Page - For Deployment
+* HTML - For Markup
+* CSS - For Styling Purpose
+* Github Page - For Deployment
+
+
 ## Deploying your project
 
 As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
